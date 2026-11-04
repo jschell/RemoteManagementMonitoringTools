@@ -51,6 +51,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [MSP360_CloudBerry](RMM/MSP360_CloudBerry/RMM_Summary_MSP360_CloudBerry.md)
 - [NAble](RMM/NAble/RMM_Summary_NAble.md)
 - [Naverisk](RMM/Naverisk/RMM_Summary_Naverisk.md)
+- [Nizlo](RMM/Nizlo/RMM_Summary_Nizlo.md)
 - [NetSupport](RMM/NetSupport/RMM_Summary_NetSupport.md)
 - [NinjaRMM](RMM/NinjaRMM/RMM_Summary_NinjaRMM.md)
 - [OptiTune](RMM/OptiTune/RMM_Summary_OptiTune.md)
